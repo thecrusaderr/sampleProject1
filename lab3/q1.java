@@ -1,5 +1,5 @@
 package lab3;
-import java.util.Scanner;
+import java.util.Scanner;//testing
 public class q1 {
 
 	public static void main(String[] args) {
